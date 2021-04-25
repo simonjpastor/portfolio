@@ -106,8 +106,8 @@ body {
 </head>
 <body>
   <div class="topnav">
-    <a class="active" href="#home">Home</a>
-    <a href="portfolio">Portfolio</a>
+    <a href="#home">Home</a>
+    <a class="active" href="portfolio">Portfolio</a>
     <!-- <div class="dropdown"> */
       <button class="dropbtn">
         <a href="#contact">SimonSays</a>
