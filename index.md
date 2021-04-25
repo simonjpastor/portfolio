@@ -106,8 +106,8 @@ body {
 </head>
 <body>
   <div class="topnav">
-    <a href="https://simonpastor.com">Val</a>
-    <a class="active" href="portfolio">Portfolio</a>
+    <a href="https://simonpastor.com">Home</a>
+    <a class="active" href="">Portfolio</a>
     <!-- <div class="dropdown"> */
       <button class="dropbtn">
         <a href="#contact">SimonSays</a>
@@ -121,7 +121,7 @@ body {
     </div> -->
     <a href="https://simonpastor.substack.com">SimonSays</a>
     <a href="#news">Resume</a>
-    <a href="#about">Contact</a>
+    <a href="https://simonpastor.com/Contact">Contact</a>
   </div>
 
 <center>
