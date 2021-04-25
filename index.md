@@ -1,3 +1,129 @@
+<head>
+<style>
+  <br>
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.topnav {
+  overflow: hidden;
+  top: 50%;
+  background-color: #5DADE2;
+  border-top-left-radius: 10px;
+  border-bottom-left-radius: 10px;
+  border-top-right-radius: 10px;
+  border-bottom-right-radius: 10px;
+
+}
+
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+  width: 17.72%;
+  margin:0;
+  border-top-left-radius: 4px;
+  border-bottom-left-radius: 4px;
+  border-top-right-radius: 4px;
+  border-bottom-right-radius: 4px;
+}
+
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.topnav a.active {
+  background-color: #3498DB;
+  color: white;
+}
+      /* The dropdown container */
+      .dropdown {
+      float: left;
+      overflow: hidden;
+      color: #3498DB;
+      }
+      /* Dropdown button */
+      .dropdown .dropbtn {
+      float: center;
+      color: #3498DB;
+      text-align: center;
+      padding: 14px 16px;
+      text-decoration: none;
+      font-size: 17px;
+      min-width:18%;
+      margin:0;
+      }
+      /* Dropdown content (hidden by default) */
+      .dropdown-content {
+      display: none;
+      position: absolute;
+      background-color: #f9f9f9;
+      min-width: 19%;
+      box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+      z-index: 1;
+      }
+      /* Links inside the dropdown */
+      .dropdown-content a {
+      float: none;
+      color: black;
+      padding: 12px 16px;
+      text-decoration: none;
+      display: block;
+      text-align: center;
+      min-width:100%;
+      }
+      /* Add a grey background color to dropdown links on hover */
+      .dropdown-content a:hover {
+      min-width:100%;
+      background-color: #cc2;
+      }
+      /* Show the dropdown menu on hover */
+      .dropdown:hover .dropdown-content {
+      display: block;
+      }
+
+@media screen and (max-width: 600px) {
+  .topnav {position: relative;}
+  .topnav a {
+    float: none;
+    display: block;
+    text-align: center;
+  }
+  .topnav a.icon {
+    float: right;
+    display: block;
+  }
+
+}
+
+   </style>
+</head>
+<body>
+  <div class="topnav">
+    <a class="active" href="#home">Home</a>
+    <a href="portfolio">Portfolio</a>
+    <!-- <div class="dropdown"> */
+      <button class="dropbtn">
+        <a href="#contact">SimonSays</a>
+      <i class="fa fa-caret-down"></i>
+      </button>
+      <div class="dropdown-content">
+         <a href="#">Emperor Gaius Trump</a>
+         <a href="#">Harmless Tradition or (Khat)astrophe?</a>
+         <a href="#">Post-Covid Social Status:Unclear</a>
+      </div>
+    </div> -->
+    <a href="https://simonpastor.substack.com">SimonSays</a>
+    <a href="#news">Resume</a>
+    <a href="#about">Contact</a>
+  </div>
+
 <center>
 <h1> <font color='#5DADE2'>Welcome to my Portfolio!</font></h1>
 </center>
