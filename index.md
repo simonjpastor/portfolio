@@ -93,6 +93,7 @@ body {
   .topnav a {
     float: none;
     display: block;
+    width: 50%
     text-align: center;
   }
   .topnav a.icon {
