@@ -1,3 +1,4 @@
+<head>
 <style>
 body {
   margin: 0;
@@ -105,7 +106,7 @@ body {
 </head>
 <body>
   <div class="topnav">
-    <a href="https://simonpastor.com">Home</a>
+    <a href="https://simonpastor.com">Home1</a>
     <a class="active" href="">Portfolio</a>
     <!-- <div class="dropdown"> */
       <button class="dropbtn">
