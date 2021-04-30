@@ -91,8 +91,8 @@ body {
 @media screen and (max-width: 600px) {
   .topnav {position: left;}
   .topnav a {
-    float: none;
-    display: none;
+    float: left;
+    display: block;
     text-align: center;
   }
   .topnav a.icon {
