@@ -89,7 +89,7 @@ body {
       }
 
 @media screen and (max-width: 600px) {
-  .topnav {position: left;}
+  .topnav {position: relative;}
   .topnav a {
     float: left;
     display: block;
