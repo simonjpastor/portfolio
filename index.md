@@ -94,6 +94,7 @@ body {
     float: left;
     display: block;
     text-align: center;
+    width:100%;
   }
   .topnav a.icon {
     float: right;
