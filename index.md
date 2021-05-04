@@ -206,5 +206,14 @@ body {
 - [Project 3 Title](http://example.com/) Simon Pastor
 - [Project 4 Title](http://example.com/) Simon Pastor
 - [Project 5 Title](http://example.com/) Simon Pastor -->
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-192273691-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-192273691-1');
+</script>
 
 
