@@ -181,7 +181,7 @@ body {
   <img src="images/twittlists1.png?raw=true"/>
   <img src="images/twittlists2.png?raw=true"/>
 </a>
-<h4> <font color='#909497' family="Merriweather"> In November alone the account reached 500K people!</font> </h4>
+<h4> <font color='#909497' family="Merriweather">In November alone the account reached 500K people!</font> </h4>
 <a href="https://twitter.com/Twitt_Lists" target='_blank'><img src="images/twittlists3.png?raw=true"/></a>
 
 <br>
