@@ -191,7 +191,8 @@ body {
 <a href="https://simonpastor.com/citizenlab-participatory-budgets" target='_blank'>
   <img src="images/pb-0.png?raw=true"/>
   <img src="images/pb-1.png?raw=true"/>
-</a></center>
+</a>
+</center>
 
 <br>
 
