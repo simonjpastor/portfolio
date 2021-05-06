@@ -1,5 +1,5 @@
 <head>
-  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:card" content="summary" />
   <meta name="twitter:site" content="@the_simonpastor" />
   <meta name="twitter:creator" content="@the_simonpastor" />
   <meta property="og:title" content="Simon Pastor"/>
