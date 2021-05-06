@@ -175,34 +175,34 @@ body {
 <a href="https://simonpastor.com/2017-French-Presidential-Elections" target='_blank'><img src="images/elections_macron.png?raw=true"/></a>
 
 <br>
-<center><h2> <font color='#7DCEA0'><a href="https://twitter.com/Twitt_Lists" target='_blank'>TwittLists</a></font></h2></center>
+<center><h2> <font color='#7DCEA0'><a href="https://twitter.com/Twitt_Lists" target='_blank'>TwittLists</a></font></h2>
 <h4> <font color='#909497' family="Merriweather"><a href="https://twitter.com/Twitt_Lists" target='_blank'>TwittLists</a> analyzes millions of public user-generated Twitter lists to create a ranking of the best Twitter accounts on a given topic ranging from Chess to French Mayors.</font> </h4>
 <a href="https://twitter.com/Twitt_Lists" target='_blank'>
   <img src="images/twittlists1.png?raw=true"/>
   <img src="images/twittlists2.png?raw=true"/>
 </a>
-<h4><font color='#909497' family="Merriweather">In November alone the account reached 500K people!</font></h4>
-<a href="https://twitter.com/Twitt_Lists" target='_blank'><img src="images/twittlists3.png?raw=true"/></a>
+<h4> <font color='#909497' family="Merriweather">In November alone the account reached 500K people!</font> </h4>
+<a href="https://twitter.com/Twitt_Lists" target='_blank'><img src="images/twittlists3.png?raw=true"/></a></center>
 
 <br>
 
-<center><h2> <font color='#3498DB' family="Merriweather"><a href="https://simonpastor.com/citizenlab-participatory-budgets" target='_blank'>CitizenLab Participatory Budgets Map</a></font></h2></center>
+<center><h2> <font color='#3498DB' family="Merriweather"><a href="https://simonpastor.com/citizenlab-participatory-budgets" target='_blank'>CitizenLab Participatory Budgets Map</a></font></h2>
 <h4> <font color='#909497' family="Merriweather"><a href="https://simonpastor.com/citizenlab-participatory-budgets" target='_blank'>In this project</a>, I mapped 60+ Participatory Budgets launched by cities all around the world on Cititzenlab's platform. </font> </h4>
 <a href="https://simonpastor.com/citizenlab-participatory-budgets" target='_blank'>
   <img src="images/pb-0.png?raw=true"/>
   <img src="images/pb-1.png?raw=true"/>
-</a>
+</a></center>
 
 <br>
 
-<center><h2> <font color='#3498DB' family="Merriweather"> <a href="https://simonpastor.substack.com" target='_blank'>SimonSays</a></font></h2></center>
+<center><h2> <font color='#3498DB' family="Merriweather"> <a href="https://simonpastor.substack.com" target='_blank'>SimonSays</a></font></h2>
 
 <h4> <font color='#75828a' family="Merriweather"> <a href="https://simonpastor.substack.com" target='_blank'>In this newsletter</a>, I write about politics, society, books, podcasts and much more...</font> </h4>
 
 <a href="https://simonpastor.substack.com" target='_blank'><img src="images/simonsays3.png?raw=true"/></a>
 <a href="https://simonpastor.substack.com/p/emperor-gaius-trump" target='_blank'><img src="images/simonsays1.png?raw=true"/></a>
 <a href="https://simonpastor.substack.com/p/harmless-tradition-or-khat-astrophe" target='_blank'><img src="images/simonsays2.png?raw=true"/></a>
-
+</center>
 <br>
 
 <center>
