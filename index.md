@@ -8,7 +8,7 @@
   <meta name="twitter:description" content="Welcome to my website! I'm Simon, an LSE Government and History alumnus passionate about the intersection of Data and Politics/Policy!" />
   <meta name="twitter:image" content="https://ibb.co/ZTjbcjf" />
   <meta name="twitter:site" content="@the_simonpastor" />
-  <meta name="twitter:creator" content="@the_simonpastor"/>
+  <meta name="twitter:creator" content="@the_simonpastor" />
   <!-- <meta name="twitter:card" content="summary_large_image"> -->
 <style>
 body {
