@@ -139,9 +139,9 @@ body {
 <h1> <font color='#5DADE2'>Welcome to my Portfolio!</font></h1>
 </center>
 <br> -->
-<center><h2> <font color='#5DADE2'><a href="https://simonpastor.com/memorable-sportspeople-map" target='_blank'>Memorable Sportspeople</a></font></h2></center>
-<h4> <font color='#909497' family="Merriweather"><a href="https://simonpastor.com/memorable-sportspeople-map" target='_blank'>In this project</a>, I mapped where the 10 000 most "memorable sportspeople" were born, according to the MIT Pantheon WorldWide Project.</font> </h4>
-<a href="https://simonpastor.com/goodreads_book_recommendation" target='_blank'><img src="images/goodreads_result.png?raw=true"/></a>
+<center><h2> <font color='#5DADE2'><a href="https://simonpastor.substack.com/p/predicting-my-next-favorite-book" target='_blank'>Predicting My Next Favorite Book with Machine Learning</a></font></h2></center>
+<h4> <font color='#909497' family="Merriweather"><a href="https://simonpastor.substack.com/p/predicting-my-next-favorite-book" target='_blank'>In this project</a>, I applied Machine Learning models to my Goodreads Data to identify my next favorite books among a list of more than 10 000.</font> </h4>
+<a href="https://simonpastor.substack.com/p/predicting-my-next-favorite-book" target='_blank'><img src="images/goodreads_result.png?raw=true"/></a>
 
 <br>
 
