@@ -140,7 +140,7 @@ body {
 </center>
 <br> -->
 <center><h2> <font color='#5DADE2'><a href="https://simonpastor.substack.com/p/predicting-my-next-favorite-book" target='_blank'>Predicting My Next Favorite Book with Machine Learning</a></font></h2></center>
-<h4> <font color='#909497' family="Merriweather"><a href="https://simonpastor.substack.com/p/predicting-my-next-favorite-book" target='_blank'>In this project</a>, I applied Machine Learning models to my Goodreads Data to identify <strong>my next favorite books</strong>among a list of more than 10 000. The project's code <a href="https://github.com/simonjpastor/goodreads_book_recommendation/blob/main/goodreads.py" target='_blank'>can be found here</a></font> </h4>
+<h4> <font color='#909497' family="Merriweather"><a href="https://simonpastor.substack.com/p/predicting-my-next-favorite-book" target='_blank'>In this project</a>, I applied Machine Learning models to my Goodreads Data to identify <strong>my next favorite books 📚</strong>among a list of more than 10 000. The project's code <a href="https://github.com/simonjpastor/goodreads_book_recommendation/blob/main/goodreads.py" target='_blank'>can be found here 👨‍💻</a></font> </h4>
 <a href="https://simonpastor.substack.com/p/predicting-my-next-favorite-book" target='_blank'><img src="images/spider.jpg?raw=true"/></a>
 <a href="https://simonpastor.substack.com/p/predicting-my-next-favorite-book" target='_blank'><img src="images/goodreads_result.png?raw=true"/></a>
 
