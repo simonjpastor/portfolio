@@ -148,7 +148,7 @@ body {
 <br> -->
 <center><h2> <font color='#5DADE2'><a href="https://drive.google.com/file/d/1ggI-OoR4LgruJIjXQFwq-QUqdd_jdcfg/view?usp=sharing" target='_blank'>Building an Interactive Web Dashboard Application to Automate Analysis and Visualization</a></font></h2></center>
 <h4> <font color='#909497' family="Merriweather"> As part of my Data Science Fellowship at the U.S. Bureau of Labor Statistics, I developed a tool that automated days of analysis and visualization to quickly extract important highlights and trends from new or revised data. The tool is hosted on BLS' server and isn't available to the public.
-  <em>These GIFs were taken with authorization from superiors</em></font> </h4>
+  (These GIFs were taken with authorization from superiors)</font> </h4>
   <h4> <font color='#909497' family="Merriweather"> The 1st feature I developed was the Revisions Feature</font> </h4>
 
 <a href="https://drive.google.com/file/d/1ggI-OoR4LgruJIjXQFwq-QUqdd_jdcfg/view?usp=sharing" target='_blank'><img src="images/revisions.gif?raw=true"/></a>
