@@ -146,6 +146,13 @@ body {
 <h1> <font color='#5DADE2'>Welcome to my Portfolio!</font></h1>
 </center>
 <br> -->
+<center><h2> <font color='#5DADE2'>Building an Interactive Web Dashboard Application to Automate Analysis and Visualization</font></h2></center>
+<h4> <font color='#909497' family="Merriweather"> As part of my Data Science Fellowship at the U.S. Bureau of Labor Statistics. I developed a tool that automated days of analysis and visualization to quickly extract important highlights and trends from new or revised data. The tool is hosted on BLS' server and isn't available to the public. <em>These GIFs were taken with the authorization of my superiors</em></font> </h4>
+<a href="https://drive.google.com/file/d/1ggI-OoR4LgruJIjXQFwq-QUqdd_jdcfg/view?usp=sharing" target='_blank'><img src="images/revisions.gif?raw=true"/></a>
+<a href="https://drive.google.com/file/d/1ggI-OoR4LgruJIjXQFwq-QUqdd_jdcfg/view?usp=sharing" target='_blank'><img src="images/outliers.gif?raw=true"/></a>
+
+<br>
+
 <center><h2> <font color='#5DADE2'><a href="https://simonpastor.substack.com/p/predicting-my-next-favorite-book" target='_blank'>Predicting My Next Favorite Book with Machine Learning</a></font></h2></center>
 <h4> <font color='#909497' family="Merriweather"><a href="https://simonpastor.substack.com/p/predicting-my-next-favorite-book" target='_blank'>In this project</a>, I applied Machine Learning models to my Goodreads Data to identify <strong>my next favorite books 📚</strong>among a list of more than 10 000. The project's code <a href="https://github.com/simonjpastor/goodreads_book_recommendation/blob/main/goodreads.py" target='_blank'>can be found here 👨‍💻</a></font> </h4>
 <a href="https://simonpastor.substack.com/p/predicting-my-next-favorite-book" target='_blank'><img src="images/spider.jpg?raw=true"/></a>
