@@ -146,6 +146,12 @@ body {
 <h1> <font color='#5DADE2'>Welcome to my Portfolio!</font></h1>
 </center>
 <br> -->
+<center><h2> <font color='#5DADE2'><a href="https://share.streamlit.io/simonjpastor/twittlist/main/app.py" target='_blank'></a></font></h2></center>
+<h4> <font color='#909497' family="Merriweather"> TwittLists allows users to find the most relevant accounts on a given topic by analyzing millions of public user-generated Twitter lists </font> </h4>
+<a href="https://share.streamlit.io/simonjpastor/twittlist/main/app.py" target='_blank'><img src="images/twittlist_rec.gif?raw=true"/></a>
+
+<br>
+
 <center><h2> <font color='#5DADE2'><a href="https://drive.google.com/file/d/1ggI-OoR4LgruJIjXQFwq-QUqdd_jdcfg/view?usp=sharing" target='_blank'>Building an Interactive Web Dashboard Application to Automate Analysis and Visualization</a></font></h2></center>
 <h4> <font color='#909497' family="Merriweather"> As part of my Data Science Fellowship at the U.S. Bureau of Labor Statistics, I developed a tool that automated days of analysis and visualization to quickly extract important highlights and trends from new or revised data. The tool is hosted on BLS' server and isn't available to the public.
   (These GIFs were taken with authorization from superiors)</font> </h4>
