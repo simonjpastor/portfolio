@@ -146,8 +146,8 @@ body {
 <h1> <font color='#5DADE2'>Welcome to my Portfolio!</font></h1>
 </center>
 <br> -->
-<center><h2> <font color='#5DADE2'><a href="https://share.streamlit.io/simonjpastor/twittlist/main/app.py" target='_blank'>TwittLists Web App</a></font></h2></center>
-<h4> <font color='#909497' family="Merriweather"> TwittLists allows users to find the most relevant accounts on a given topic by analyzing millions of public user-generated Twitter lists </font> </h4>
+<center><h2> <font color='#5DADE2'><a href="https://share.streamlit.io/simonjpastor/twittlist/main/app.py" target='_blank'>TwittLists</a></font></h2></center>
+<h4> <font color='#909497' family="Merriweather"> TwittLists allows users to find the most relevant accounts on a given topic by analyzing millions of public user-generated Twitter lists</font> </h4>
 <a href="https://share.streamlit.io/simonjpastor/twittlist/main/app.py" target='_blank'><img src="images/twittlist_rec2.gif?raw=true"/></a>
 
 <br>
