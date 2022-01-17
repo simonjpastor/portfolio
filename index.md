@@ -146,7 +146,7 @@ body {
 <h1> <font color='#5DADE2'>Welcome to my Portfolio!</font></h1>
 </center>
 <br> -->
-<center><h2> <font color='#5DADE2'><a href="https://share.streamlit.io/simonjpastor/twittlist/main/app.py" target='_blank'>TwittLists Web Application</a></font></h2></center>
+<center><h2> <font color='#5DADE2'><a href="https://share.streamlit.io/simonjpastor/twittlist/main/app.py" target='_blank'>TwittLists</a></font></h2></center>
 <h4> <font color='#909497' family="Merriweather"> TwittLists allows users to find the most relevant accounts on a given topic by analyzing millions of public user-generated Twitter lists </font> </h4>
 <a href="https://share.streamlit.io/simonjpastor/twittlist/main/app.py" target='_blank'><img src="images/twittlist_rec2.gif?raw=true"/></a>
 
@@ -205,7 +205,7 @@ body {
 <a href="https://simonpastor.com/2017-French-Presidential-Elections" target='_blank'><img src="images/elections_macron.png?raw=true"/></a>
 
 <br>
-<center><h2> <font color='#7DCEA0'><a href="https://twitter.com/Twitt_Lists" target='_blank'>TwittLists</a></font></h2>
+<center><h2> <font color='#7DCEA0'><a href="https://twitter.com/Twitt_Lists" target='_blank'>TwittLists Twitter Account</a></font></h2>
 <h4> <font color='#909497' family="Merriweather"><a href="https://twitter.com/Twitt_Lists" target='_blank'>TwittLists</a> analyzes millions of public user-generated Twitter lists to create a ranking of the best Twitter accounts on a given topic ranging from Chess to French Mayors.</font> </h4>
 <a href="https://twitter.com/Twitt_Lists" target='_blank'>
   <img src="images/twittlists1.png?raw=true"/>
