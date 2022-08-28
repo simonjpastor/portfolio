@@ -146,6 +146,12 @@ body {
 <h1> <font color='#5DADE2'>Welcome to my Portfolio!</font></h1>
 </center>
 <br> -->
+
+<center><h2> <font color='#5DADE2'><a href="https://share.streamlit.io/simonjpastor/twittlist/main/app.py" target='_blank'>Macron Campaign - Regional Press Thematic Analysis </a></font></h2></center>
+<h4> <font color='#909497' family="Merriweather"> Developed this tool for the Macron Presidential Campaign. The tool did a weekly scrape of the principal regional outlets for every region in France as well as the leading national newspapers (used as benchmark). The results were shared in the internal communication note sent to the highest-ranking members of the campaign.</font> </h4>
+<a href="https://simonjpastor-pqr-analyse-viz-93qmmi.streamlitapp.com/" target='_blank'><img src="images/pqr_candidats.png?raw=true"/></a>
+<a href="https://simonjpastor-pqr-analyse-viz-93qmmi.streamlitapp.com/" target='_blank'><img src="images/pqr_themes.png?raw=true"/></a>
+
 <center><h2> <font color='#5DADE2'><a href="https://share.streamlit.io/simonjpastor/twittlist/main/app.py" target='_blank'>TwittLists</a></font></h2></center>
 <h4> <font color='#909497' family="Merriweather"> TwittLists allows users to find the most relevant accounts on a given topic by analyzing millions of public user-generated Twitter lists</font> </h4>
 <a href="https://share.streamlit.io/simonjpastor/twittlist/main/app.py" target='_blank'><img src="images/twittlist_rec2.gif?raw=true"/></a>
