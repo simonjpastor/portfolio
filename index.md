@@ -195,7 +195,7 @@ body {
 
 <br>
 
-<center><h2> <font color='#3498DB' family="Merriweather"> <a href="https://simonpastor.com/2017-French-Presidential-Elections" target='_blank'>2017 French Electoral Mapping</a></font></h2></center>
+<!-- <center><h2> <font color='#3498DB' family="Merriweather"> <a href="https://simonpastor.com/2017-French-Presidential-Elections" target='_blank'>2017 French Electoral Mapping</a></font></h2></center>
 <h4> <font color='#75828a' family="Merriweather"> <a href="https://simonpastor.com/2017-French-Presidential-Elections" target='_blank'>In this project</a>, I mapped the 2017 French Presidential Election Results. This resulted in 5 maps (as seen below), one displaying the general results, and four displaying the results of the most popular candidates (François Fillon, Marine Le Pen, Jean-Luc Mélenchon and Emmanuel Macron).</font> </h4>
 
 <h4> <font color='#909497' family="Merriweather"> 1st Round Presidential Election Results</font> </h4>
@@ -209,7 +209,7 @@ body {
 <a href="https://simonpastor.com/2017-French-Presidential-Elections" target='_blank'><img src="images/elections_melenchon.png?raw=true"/></a>
 <h4> <font color='#909497' family="Merriweather"> 1st Round Presidential Election Results - Emmanuel Macron</font> </h4>
 <a href="https://simonpastor.com/2017-French-Presidential-Elections" target='_blank'><img src="images/elections_macron.png?raw=true"/></a>
-
+ -->
 <br>
 <center><h2> <font color='#7DCEA0'><a href="https://twitter.com/Twitt_Lists" target='_blank'>TwittLists Twitter Account</a></font></h2>
 <h4> <font color='#909497' family="Merriweather"><a href="https://twitter.com/Twitt_Lists" target='_blank'>TwittLists</a> analyzes millions of public user-generated Twitter lists to create a ranking of the best Twitter accounts on a given topic ranging from Chess to French Mayors.</font> </h4>
